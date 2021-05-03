@@ -62,7 +62,7 @@ xhr.onload = function () {
             newsHtml += news;
         });
         collumn.innerHTML = newsHtml;
-        document.getElementById('button').innerHTML="Load more...";
+        collumn1.innerHTML =`<button id="button" class="mbutton" onclick="myFunction()">Load more...</button>`;
     }
     else {
         console.log("Some error occured")
