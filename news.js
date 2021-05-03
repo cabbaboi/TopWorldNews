@@ -10,8 +10,8 @@ let collumn8 = document.getElementById('collumn8');
 
 // cd7bab009c4dba422b7693d995e537d4
 // 7697528e901373d545763d39dc2b5146
-// let apiKey = '7697528e901373d545763d39dc2b5146';
-let apiKey = 'cd7bab009c4dba422b7693d995e537d4';
+let apiKey = '7697528e901373d545763d39dc2b5146';
+// let apiKey = 'cd7bab009c4dba422b7693d995e537d4';
 // ${apiKey}
 
 // https://gnews.io/api/v4/search?q=covid&country=us&lang=en&token=${apiKey}
