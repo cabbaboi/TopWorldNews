@@ -60,7 +60,7 @@ background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%); */
 }
  .card .wrapper {
 	 background: transparent;
-	 min-height: 460px;
+	 min-height: 500px;
 	 position: relative;
    border-radius: 15px;
 	 overflow: hidden;
