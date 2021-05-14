@@ -171,6 +171,7 @@ background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%); */
 	 line-height: 1.5;
 	 position: relative;
 	 font-weight: 700;
+	 box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
 }
  .example-2 .button::after {
 	 content: '\2192';
